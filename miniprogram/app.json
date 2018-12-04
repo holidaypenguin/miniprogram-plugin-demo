@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/money/money",
+    "pages/code/code",
+    "pages/login/login"
+  ],
+  "plugins": {
+    "myPlugin": {
+      "version": "dev",
+      "provider": "wxa1c6260431c5c2b7"
+    }
+  }
+}

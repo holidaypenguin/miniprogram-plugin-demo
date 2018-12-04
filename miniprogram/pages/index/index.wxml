@@ -1,0 +1,20 @@
+
+
+
+
+<navigator 
+  class="navigator"
+  hover-class="navigator-hover"
+  url="../code/code" 
+  hover-class="navigator-hover"
+>输入券码</navigator>
+
+<navigator 
+  class="navigator"
+  hover-class="navigator-hover"
+  url="../money/money" 
+  hover-class="navigator-hover"
+>输入金额</navigator>
+
+
+<login></login>

@@ -1,0 +1,12 @@
+
+<view class="page" style="height: 100%;">
+  <keyboard 
+    value="{{moneyCurrent}}"
+    max="{{moneyMaxNum}}"
+    maxLength="13"
+    type="money"
+    title="输入金额"
+    submit="核销"
+    bindchange="keyboardChangeHandler"
+    bindconfirm="keyboardConfirmHandler"></keyboard>
+</view>

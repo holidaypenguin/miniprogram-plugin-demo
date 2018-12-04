@@ -1,0 +1,8 @@
+{
+  "publicComponents": {
+    "list": "components/list/list",
+    "keyboard": "components/keyboard/keyboard",
+    "login": "components/login/login"
+  },
+  "main": "index.js"
+}

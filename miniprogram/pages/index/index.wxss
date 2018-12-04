@@ -1,0 +1,16 @@
+/* pages/index/index.wxss */
+
+.navigator{
+  margin: 20rpx;
+  line-height: 100rpx;
+  margin-top: 40rpx;
+  text-align: center;
+  border-radius: 10rpx;
+  background: #FFAD2F;
+  color: #ffffff;
+}
+
+.navigator-hover{
+  background: #FDBE5E;
+}
+

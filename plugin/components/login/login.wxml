@@ -1,0 +1,4 @@
+<!--plugin/components/login.wxml-->
+<functional-page-navigator name="loginAndGetUserInfo" args="" version="develop" bind:success="loginSuccess">
+  <button>登录到插件</button>
+</functional-page-navigator>

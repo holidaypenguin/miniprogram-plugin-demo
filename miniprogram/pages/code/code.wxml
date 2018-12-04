@@ -1,0 +1,9 @@
+
+<view class="page" style="height: 100%;">
+  <keyboard 
+    value="{{moneyCurrent}}"
+    title="请输入券码"
+    submit="验码"
+    bindchange="keyboardChangeHandler"
+    bindconfirm="keyboardConfirmHandler"></keyboard>
+</view>
